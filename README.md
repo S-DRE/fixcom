@@ -1,5 +1,5 @@
 # fixcom
-a webpage by Dre
+A webpage by Dre
 
 This is a website I made for my final project. People can create requests, 
 like dayaday todo's, so people with more free time can take care of them and get paid by doing so.
