@@ -6,8 +6,8 @@ like dayaday todo's, so people with more free time can take care of them and get
 
 People can search for Requests to do if they have the time to. Login, Register is working with a database made in MySQL.
 
-The project is made with Vue.JS and uses the JQuery Library, with the use os axios to handle the requests, as well as other
-technologies in more especific uses.
+The project is made with Vue.JS and uses a bunch of libraries, with the use of axios to handle the requests, as well as other
+technologies in more especific uses (like leaflet for mapping) and an example of API request.
 
 
 
