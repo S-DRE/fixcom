@@ -13,4 +13,4 @@ technologies in more especific uses (like leaflet for mapping) and an example of
 
 The DIST folder contains the final files made after building.
 
-The FIXCOM folder contains ALL the development code, only without the node-modules, which were too big to upload.
+The FIXCOM folder contains ALL the development code.
