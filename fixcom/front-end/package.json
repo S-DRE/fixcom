@@ -25,7 +25,7 @@
     "leaflet-search": "^2.9.8",
     "leaflet-vue": "^0.1.0",
     "mysql": "^2.18.1",
-    "nodemailer": "^6.4.6",
+    "nodemailer": "^6.4.16",
     "path": "^0.12.7",
     "popper.js": "^1.16.1",
     "request": "^2.88.2",
