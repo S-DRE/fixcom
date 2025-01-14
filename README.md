@@ -1,4 +1,4 @@
-# fixcom
+# FixCom
 A webpage by Dre
 
 This is a website I made for my final project. People can create requests, 
